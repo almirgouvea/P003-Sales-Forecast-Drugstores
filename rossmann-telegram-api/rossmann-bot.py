@@ -5,22 +5,22 @@ import pandas as pd
 from flask import Flask, request, Response
 
 # constants
-TOKEN = '5034162573:AAHDq4hsQDluNrkh8SK69vtezZ5yCYr-6J0'
+TOKEN = ''
 
 # # Info about the Bot
-# https://api.telegram.org/bot5034162573:AAHDq4hsQDluNrkh8SK69vtezZ5yCYr-6J0/getMe
+# https://api.telegram.org/bot/getMe
 
 # # get updates
-# https://api.telegram.org/bot5034162573:AAHDq4hsQDluNrkh8SK69vtezZ5yCYr-6J0/getUpdates
+# https://api.telegram.org/bot/getUpdates
 
 # # Webhook - localhost
-# https://api.telegram.org/bot5034162573:AAHDq4hsQDluNrkh8SK69vtezZ5yCYr-6J0/setWebhook?url=https://261b5c562482d9.lhr.life
+# https://api.telegram.org/bot/setWebhook?url=https://.localhost.run
 
 # # Webhook - Heroku
-# https://api.telegram.org/bot5034162573:AAHDq4hsQDluNrkh8SK69vtezZ5yCYr-6J0/setWebhook?url=https://rossmann-model-bot.herokuapp.com/
+# https://api.telegram.org/bot/setWebhook?url=https://rossmann-model-bot.herokuapp.com/
 
 # # send message
-# https://api.telegram.org/bot5034162573:AAHDq4hsQDluNrkh8SK69vtezZ5yCYr-6J0/sendMessage?chat_id=260932855&text=Hi Almir, I am doing good, tks!
+# https://api.telegram.org/bot/sendMessage?chat_id=260932855&text=Hi Almir, I am doing good, tks!
 
 
 def send_message( chat_id, text ):
