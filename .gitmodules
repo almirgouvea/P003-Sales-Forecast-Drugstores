@@ -1,0 +1,6 @@
+[submodule "rossmann-telegram-api"]
+	path = rossmann-telegram-api
+	url = /home/almir/repos/datascience_em_producao/rossmann-telegram-api
+[submodule "webapp"]
+	path = webapp
+	url = /home/almir/repos/datascience_em_producao/webapp/
