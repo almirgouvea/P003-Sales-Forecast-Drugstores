@@ -178,7 +178,6 @@ Based on the predictions, we can create some scenarios (best and worst) and anal
 The results indicate that the application of Machine Learning models helps in the analysis of scenarios.
 
 The first CRISP cycle showed satisfactory results and can be presented for evaluation by the company's CFO.
-
 <br>
 
 ## 11. Next Steps to improve
