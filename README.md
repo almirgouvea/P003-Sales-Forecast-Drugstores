@@ -22,9 +22,9 @@ The aim of this project is:
 ---
 ## 1. Business Problem
 
-The managers for the drugstores request forecasting sales for the next six weeks.<br>
+Drugstore managers request sales forecasts for the next six weeks.<br>
 
-Looking for the root cause, I talked to the CFO to get more details about the request.<br>
+Looking for the root cause, the data scientist spoke with the CFO to get more details about the request.<br>
 
 The CFO explained need to determine the budget to perform a repair on the drugstores.<br>
 
