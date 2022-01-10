@@ -169,7 +169,7 @@ Based on the predictions, we can create some scenarios (best and worst) and anal
 <img src="img/telegram_bot_1.jpeg" width=50% height=50% />  <br>
 
 
- - Two types of errors can occur: "Store not available" occurs when the drug store number is not in the test dataset, and "Store ID is wrong" occurs when submitting something other than a number.
+ - Two types of errors can occur: "Store not available" occurs when the drugstore number is not in the test dataset, and "Store ID is wrong" occurs when submitting something other than a number.
 
  <img src="img/telegram_bot_2.jpeg" width=50% height=50% />  <br>
 
