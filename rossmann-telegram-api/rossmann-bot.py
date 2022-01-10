@@ -89,6 +89,13 @@ def parse_message( message ):
 		store_id = int(store_id)
 
 	except ValueError:
+		
+		if store_id == 'start':
+			msg = 'Welcome, please type the store number you want to know the sales forecast'
+			send_message(chat_id, msg)
+		else:
+			send_message(chat_id, 'Store ID is Wrong')
+			
 		store_id = 'error'
 
 	return chat_id, store_id
@@ -126,7 +133,6 @@ def index():
     				send_message( chat_id, 'Store Not Available' )
     				return Response( 'Ok', status=200 )
     		else:
-    			send_message( chat_id, 'Store ID is Wrong' )
     			return Response( 'Ok', status=200 )
 
     	else:
