@@ -26,9 +26,9 @@ Drugstore managers request sales forecasts for the next six weeks.<br>
 
 Looking for the root cause, the data scientist spoke with the CFO to get more details about the request.<br>
 
-The CFO explained need to determine the budget to perform a repair on the drugstores.<br>
+The CFO explained the need to set the budget for carrying out the drugstores' repairs.<br>
 
-The CFO wants to know the sales forecasting to determine the percentage of money that can use by each drugstore to perform the repairs.<br>
+Through sales forecasting, the CFO can determine the percentage of money each drugstore can use to make repairs.<br>
 
 ## 2. Business Results
 
